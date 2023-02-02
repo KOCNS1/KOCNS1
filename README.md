@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E16AQGnIUplm772Mg/profile-displaybackgroundimage-shrink_350_1400/0/1660743113341?e=1680739200&v=beta&t=F4rHDsZ27fpPphNuRT3YQPqwbEAobmRK0Z8KoNjy5ls)](https://https://github.com/KOCNS1)
 
 <h1 align="center">Hi 👋, I'm Enes KOÇ</h1>
-<h3 align="center">Fullstack engineer from France 🇫🇷</h3>
+<h3 align="center">Software Engineer Fullstack @SFEIR 🇱🇺</h3>
 
 
 
